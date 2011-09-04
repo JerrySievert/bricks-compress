@@ -6,7 +6,7 @@
   "homepage": "https://github.com/JerrySievert/bricks-compress",
   "repository": {
     "type": "git",
-    "url": "http://github.com/JerrySievert/bricks.git"
+    "url": "http://github.com/JerrySievert/bricks-compress.git"
   },
   "license" : "MIT/X11",
   "main": "./lib/bricks-compress.js",
