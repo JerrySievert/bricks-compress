@@ -2,7 +2,8 @@
   "author": "Jerry Sievert <code@legitimatesounding.com> (http://legitimatesounding.com/blog/)",
   "name": "bricks-compress",
   "description": "Compressed output from bricks.js",
-  "version": "0.1.0",
+  "version": "0.1.1",
+  "keywords": ["gzip", "compress", "bricksjs", "bricks"],
   "homepage": "https://github.com/JerrySievert/bricks-compress",
   "repository": {
     "type": "git",
