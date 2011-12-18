@@ -2,7 +2,7 @@
   "author": "Jerry Sievert <code@legitimatesounding.com> (http://legitimatesounding.com/blog/)",
   "name": "bricks-compress",
   "description": "Compressed output from bricks.js",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "keywords": ["gzip", "compress", "bricksjs", "bricks"],
   "homepage": "https://github.com/JerrySievert/bricks-compress",
   "repository": {
@@ -10,12 +10,12 @@
     "url": "http://github.com/JerrySievert/bricks-compress.git"
   },
   "license" : "MIT/X11",
-  "main": "./lib/bricks-compress.js",
+  "main": "./lib/compress.js",
   "engines": {
-    "node": ">=v0.4.5"
+    "node": ">=v0.6.0"
   },
   "dependencies": {
-      "compress-buffer": "~0.3.0"
+    "bufferjs":   ">=1.0.0",
   },
   "devDependencies": {}
 }
